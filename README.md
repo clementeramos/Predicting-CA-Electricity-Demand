@@ -3,7 +3,8 @@
 <h1>Senior Capstone Research Project (Synthesis)</h1>
 
 <h2>Description</h2>
-Research Question: How can historical weather data predict electricity demand in California?
+
+- <b>Research Question:</b> How can historical weather data predict electricity demand in California?
 
 <h2>Background</h2>
 
